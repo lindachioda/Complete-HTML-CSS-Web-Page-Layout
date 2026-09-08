@@ -4,4 +4,6 @@
 
 🛠️ **Tecnologie utilizzate** <br>
 • HTML5
+• CSS3
+
 
